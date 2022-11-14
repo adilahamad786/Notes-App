@@ -1,12 +1,12 @@
 {
   "name": "notes-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a note app.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Adil Ahamad",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",

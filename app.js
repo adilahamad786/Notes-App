@@ -12,7 +12,7 @@ yargs.command({   // checking about this using command "node app.js --help" and 
     command : 'add',
     description : "Add a new Note",
     builder : {
-        title : {
+       title : {
             description : 'Note Title',
             demandOption : true, // means required
             type : 'string' //accepted data type
